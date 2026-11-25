@@ -62,6 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
 - [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 - [Smart Runner](https://runnerapp.pro/) - Privacy-respecting on-device running and marathon training coach with adaptive plans (iOS & Apple Watch).
+- [Treadmill Pro](https://treadmillpro.app/) - Connects to FTMS and 65+ Bluetooth treadmills to control speed and log distance, pace and calories (iOS).
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
